@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shofy-app/static/css/main.d2c62679.css",
+    "main.js": "/shofy-app/static/js/main.a7ccd2fa.js",
+    "static/js/453.f279a3c7.chunk.js": "/shofy-app/static/js/453.f279a3c7.chunk.js",
+    "index.html": "/shofy-app/index.html",
+    "main.d2c62679.css.map": "/shofy-app/static/css/main.d2c62679.css.map",
+    "main.a7ccd2fa.js.map": "/shofy-app/static/js/main.a7ccd2fa.js.map",
+    "453.f279a3c7.chunk.js.map": "/shofy-app/static/js/453.f279a3c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c62679.css",
+    "static/js/main.a7ccd2fa.js"
+  ]
+}
