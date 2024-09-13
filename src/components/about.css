@@ -1,0 +1,35 @@
+.container{
+    width:80%;
+    margin:auto
+}
+.about-box{
+    display:flex;
+    justify-content: space-between;
+}
+.about-box .text{
+    width:70%;
+    margin-top:10%;
+    margin-right: 50px;
+}
+.about-box .text h1{
+    text-align: center;
+    font-size:60px;
+    margin-bottom: 30px;
+}
+.about-box .text p{
+    line-height: 1.6;
+    font-size:15px;
+    font-weight: bold;
+    color: #999;
+
+}
+
+
+.about-box .about-img{
+    width:30%
+}
+img{
+    width:80%;
+    border-radius:10%;
+    margin-top:10%
+}

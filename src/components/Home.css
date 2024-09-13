@@ -1,0 +1,50 @@
+.home{
+    padding:0;
+    margin:0px;
+    box-sizing: border-box;
+}
+.home .container{
+    background-color:#ccc;
+    margin:auto;
+    margin-top:3%;
+    display:flex;
+    justify-content:space-around;
+    height:60vh;
+
+}
+.home .container .details{
+    width:50%;
+    
+}
+.home .container .details h1{
+    font-size:60px;
+    margin-top:15%;
+    font-family:sans-serif;
+    color:#636060
+}
+.home .container .details button{
+    background-color:#fff;
+    color:#fff;
+    padding:10px 50px;
+    text-decoration: none;
+    border-radius:8%;
+    border:none;
+    
+}
+.home .container .details button:hover{
+    background-color:cornflowerblue
+}
+
+
+
+.home .container .image{
+    width:30%;
+    margin-right:10%;
+    
+    
+}
+.home .container .image img{
+    height:80%;
+    margin-top:30px;
+    border-radius: 20%;
+}

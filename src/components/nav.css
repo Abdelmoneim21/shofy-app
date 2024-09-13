@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    --orangee:rgb(234, 198, 129)
+}
+
+.free{
+    display:flex;
+    padding:15px;
+    background-color: black;
+
+}
+.free .icon{
+    color:var(--orangee);
+    font-size:30px;
+    padding:10px;
+}
+.free p{
+    color:#fff;
+    margin-top:15px;
+    margin-left:10px;
+    font-weight:600;
+    font-size:14px;
+
+}
+.free span{
+    font-size:20px;
+    margin-right:3px;
+    color:var(--orangee);
+}
